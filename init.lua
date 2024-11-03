@@ -17,6 +17,10 @@ end
 
 vim.opt.rtp:prepend(lazypath)
 
+vim.keymap.set("n", "j", "jzz")
+vim.keymap.set("n", "k", "kzz")
+vim.keymap.set("v", "<leader>s", ":Silicon<CR>")
+
 -- Set highlight on search
 vim.o.hlsearch = false
 
@@ -69,17 +73,17 @@ if firstload then
 	vim.schedule(function()
 		vim.cmd("MasonInstallAll")
 
-        local packages = {}
-        for k, v in pairs(vim.g.mason_binaries_list) do
-            packages[k] = v
-        end
+		local packages = {}
+		for k, v in pairs(vim.g.mason_binaries_list) do
+			packages[k] = v
+		end
 
-        local installed = {}
+		local installed = {}
 
 		require("mason-registry"):on("package:install:success", function(pkg)
-            table.insert(installed, pkg.name)
+			table.insert(installed, pkg.name)
 
-            if #installed == #packages then
+			if #installed == #packages then
 				vim.schedule(function()
 					vim.api.nvim_buf_delete(0, { force = true })
 					vim.api.nvim_buf_delete(0, { force = true })
