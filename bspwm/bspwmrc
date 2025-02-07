@@ -1,0 +1,29 @@
+#! /bin/sh
+
+pgrep -x sxhkd > /dev/null || sxhkd &
+
+bspc monitor -d I II III IV V
+
+bspc config border_width         0
+bspc config window_gap           8
+
+bspc config split_ratio          0.50
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+
+# bspc rule -a Gimp desktop='^8' state=floating follow=on
+# bspc rule -a Chromium desktop='^2'
+bspc rule -a firefox state=floating
+bspc rule -a mplayer2 state=floating
+bspc rule -a Kupfer.py focus=on
+bspc rule -a Screenkey manage=off
+
+# variables, makes the spaghetti look modular
+#wallpaper="/home/rinojames007/MyFiles/script/pywall.jpg"
+wmname LG3D
+
+udiskie &
+#feh --no-fehbg --bg-scale  wallpaper
+feh --no-fehbg --bg-scale "$HOME/Pictures/wallpaper/tropic_island_night.jpg"
+#$HOME/.scripts/battery.sh &
+picom --config '/home/rinojames007/.config/picom/picom.conf' &
