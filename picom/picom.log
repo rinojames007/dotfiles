@@ -1,0 +1,1310 @@
+[ 02/08/2025 21:13:36.068 atom_getter DEBUG ] Atom _NET_WM_WINDOW_OPACITY is 427
+[ 02/08/2025 21:13:36.068 atom_getter DEBUG ] Atom _NET_FRAME_EXTENTS is 372
+[ 02/08/2025 21:13:36.068 atom_getter DEBUG ] Atom WM_STATE is 420
+[ 02/08/2025 21:13:36.068 atom_getter DEBUG ] Atom _NET_WM_NAME is 356
+[ 02/08/2025 21:13:36.068 atom_getter DEBUG ] Atom _NET_WM_PID is 368
+[ 02/08/2025 21:13:36.068 atom_getter DEBUG ] Atom WM_NAME is 39
+[ 02/08/2025 21:13:36.068 atom_getter DEBUG ] Atom WM_CLASS is 67
+[ 02/08/2025 21:13:36.068 atom_getter DEBUG ] Atom WM_ICON_NAME is 37
+[ 02/08/2025 21:13:36.068 atom_getter DEBUG ] Atom WM_TRANSIENT_FOR is 68
+[ 02/08/2025 21:13:36.068 atom_getter DEBUG ] Atom WM_WINDOW_ROLE is 428
+[ 02/08/2025 21:13:36.068 atom_getter DEBUG ] Atom WM_CLIENT_LEADER is 429
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom WM_CLIENT_MACHINE is 36
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_ACTIVE_WINDOW is 345
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _COMPTON_SHADOW is 430
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom COMPTON_VERSION is 431
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_WINDOW_TYPE is 361
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _XROOTPMAP_ID is 425
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom ESETROOT_PMAP_ID is 426
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _XSETROOT_ID is 432
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_WINDOW_TYPE_DESKTOP is 381
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_WINDOW_TYPE_DOCK is 382
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_WINDOW_TYPE_TOOLBAR is 383
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_WINDOW_TYPE_MENU is 384
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_WINDOW_TYPE_UTILITY is 385
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_WINDOW_TYPE_SPLASH is 386
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_WINDOW_TYPE_DIALOG is 387
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_WINDOW_TYPE_NORMAL is 394
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_WINDOW_TYPE_DROPDOWN_MENU is 388
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_WINDOW_TYPE_POPUP_MENU is 389
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_WINDOW_TYPE_TOOLTIP is 390
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_WINDOW_TYPE_NOTIFICATION is 391
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_WINDOW_TYPE_COMBO is 392
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_WINDOW_TYPE_DND is 393
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_STATE is 362
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_STATE_FULLSCREEN is 403
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _NET_WM_BYPASS_COMPOSITOR is 433
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom UTF8_STRING is 378
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom C_STRING is 434
+[ 02/08/2025 21:13:36.069 atom_getter DEBUG ] Atom _GTK_FRAME_EXTENTS is 435
+[ 02/08/2025 21:13:36.070 atom_getter DEBUG ] Atom _NET_WM_CM_S0 is 419
+[ 02/08/2025 21:13:36.070 file_watch_init DEBUG ] Starting watching for file changes
+[ 02/08/2025 21:13:36.070 file_watch_add DEBUG ] Adding "/home/rinojames007/.config/picom/picom.conf" to watched files
+[ 02/08/2025 21:13:36.071 wm_import_start_inner DEBUG ] Starting import process for window 0x00000411
+[ 02/08/2025 21:13:36.071 init_overlay DEBUG ] overlay = 0x000000b1
+[ 02/08/2025 21:13:36.071 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00000411, sending query tree.
+[ 02/08/2025 21:13:36.071 ev_handle DEBUG ] event CREATE_NOT serial 0x0000005f window 0x000000b1 "(Overlay)"
+[ 02/08/2025 21:13:36.071 ev_handle DEBUG ] event MAP_NOTIFY serial 0x0000005f window 0x000000b1 "(Overlay)"
+[ 02/08/2025 21:13:36.071 ev_map_notify DEBUG ] Overlay is mapped while we are not redirected
+[ 02/08/2025 21:13:36.071 ev_handle DEBUG ] event UNMAP_NOTI serial 0x00000065 window 0x000000b1 "(Overlay)"
+[ 02/08/2025 21:13:36.072 ev_handle DEBUG ] event     EXPOSE serial 0x00000065 window 0x00000411 "(Root window)"
+[ 02/08/2025 21:13:36.072 ev_handle DEBUG ] event     EXPOSE serial 0x00000065 window 0x00000411 "(Root window)"
+[ 02/08/2025 21:13:36.072 ev_handle DEBUG ] event     EXPOSE serial 0x00000065 window 0x00000411 "(Root window)"
+[ 02/08/2025 21:13:36.072 ev_handle DEBUG ] event     EXPOSE serial 0x00000065 window 0x00000411 "(Root window)"
+[ 02/08/2025 21:13:36.072 ev_handle DEBUG ] event     EXPOSE serial 0x00000065 window 0x00000411 "(Root window)"
+[ 02/08/2025 21:13:36.072 ev_handle DEBUG ] event     EXPOSE serial 0x00000065 window 0x00000411 "(Root window)"
+[ 02/08/2025 21:13:36.072 ev_handle DEBUG ] event     EXPOSE serial 0x00000065 window 0x00000411 "(Root window)"
+[ 02/08/2025 21:13:36.072 x_generic_async_callback DEBUG ] Expected X error for request in x_prepare_for_sleep at ../src/x.c:1111: X error 4 PIXMAP request 54 minor 0 serial 103
+[ 02/08/2025 21:13:36.072 handle_pending_updates DEBUG ] Delayed handling of events
+[ 02/08/2025 21:13:36.072 redirect_start DEBUG ] Redirecting the screen.
+[ 02/08/2025 21:13:36.101 redirect_start INFO ] Disabling frame pacing.
+[ 02/08/2025 21:13:36.101 redirect_start DEBUG ] Screen redirected.
+[ 02/08/2025 21:13:36.101 draw_callback_impl DEBUG ] Re-run _draw_callback
+[ 02/08/2025 21:13:36.116 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00000411
+[ 02/08/2025 21:13:36.116 wm_handle_query_tree_reply DEBUG ] Window 0x00000411 has 70 children
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x00400005
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x06400002
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x06000002
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x05c00002
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x04800002
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x03200002
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x02a00002
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x02000002
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x01200002
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x00e00001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x00a00003
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x00c0002c
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x00c00187
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x01e00001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x02400001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x02200001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x01400001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x01600001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x01a00001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x03600001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x03800001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x03a00001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x03c00001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x03e00001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x04200001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x03400001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x04000001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x04400001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x04600001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x05400001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x01800001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x04a00001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x04c00001
+[ 02/08/2025 21:13:36.116 wm_import_start_inner DEBUG ] Starting import process for window 0x04e00001
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x05000001
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x05200001
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x05600001
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x01200000
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x05800001
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x01000000
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x01c00000
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x02600000
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x02800000
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x00c00001
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x00c00039
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x00c0003d
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x00c00045
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x02000000
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x02c00001
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x02a00000
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x02e00001
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x03200000
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x05a00001
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x04800000
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x05e00001
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x00c00041
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x05c00000
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x06200001
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x06000000
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x06600001
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x00c00064
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x00400000
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x00400001
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x06400000
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x06a00001
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x00c00195
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x00c00199
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x00c0019d
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x00c001a8
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x03000004
+[ 02/08/2025 21:13:36.117 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00000411, WM_STATE 0).
+[ 02/08/2025 21:13:36.117 x_generic_async_callback DEBUG ] Expected X error for request in x_prepare_for_sleep at ../src/x.c:1111: X error 4 PIXMAP request 54 minor 0 serial 108
+[ 02/08/2025 21:13:36.117 ev_handle DEBUG ] event MAP_NOTIFY serial 0x0000006d window 0x000000b1 "(Overlay)"
+[ 02/08/2025 21:13:36.117 ev_handle DEBUG ] event     EXPOSE serial 0x0000006d window 0x000000b1 "(Overlay)"
+[ 02/08/2025 21:13:36.117 ev_handle DEBUG ] event CREATE_NOT serial 0x00000098 window 0x00c001af "(Failed to get title)"
+[ 02/08/2025 21:13:36.117 wm_import_start_inner DEBUG ] Starting import process for window 0x00c001af
+[ 02/08/2025 21:13:36.117 handle_x_events DEBUG ] Window tree changed, queueing redraw.
+[ 02/08/2025 21:13:36.117 handle_pending_updates DEBUG ] Delayed handling of events
+[ 02/08/2025 21:13:36.117 wm_refresh_leaders DEBUG ] Refreshing window leaders, tree consistency: 0
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00400005, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x06400002, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x06000002, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x05c00002, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x04800002, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x03200002, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x02a00002, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x02000002, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x01200002, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00e00001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00a00003, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c0002c, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c00187, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x01e00001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x02400001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x02200001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x01400001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x01600001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x01a00001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x03600001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x03800001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x03a00001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x03c00001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x03e00001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x04200001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x03400001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x04000001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x04400001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x04600001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x05400001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x01800001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x04a00001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x04c00001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x04e00001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x05000001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x05200001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x05600001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x01200000, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x05800001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x01000000, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x01c00000, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x02600000, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x02800000, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c00001, sending query tree.
+[ 02/08/2025 21:13:36.133 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c00039, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c0003d, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c00045, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x02000000, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x02c00001, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x02a00000, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x02e00001, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x03200000, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x05a00001, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x04800000, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x05e00001, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c00041, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x05c00000, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x06200001, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x06000000, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x06600001, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c00064, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00400000, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00400001, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x06400000, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x06a00001, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c00195, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c00199, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c0019d, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c001a8, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x03000004, sending query tree.
+[ 02/08/2025 21:13:36.134 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c001af, sending query tree.
+[ 02/08/2025 21:13:36.134 x_generic_async_callback DEBUG ] Expected X error for request in x_prepare_for_sleep at ../src/x.c:1111: X error 4 PIXMAP request 54 minor 0 serial 1799
+[ 02/08/2025 21:13:36.134 win_maybe_allocate DEBUG ] Managing window 0x00400005
+[ 02/08/2025 21:13:36.134 win_maybe_allocate DEBUG ] Managing window 0x06400002
+[ 02/08/2025 21:13:36.134 win_maybe_allocate DEBUG ] Managing window 0x06000002
+[ 02/08/2025 21:13:36.134 win_maybe_allocate DEBUG ] Managing window 0x05c00002
+[ 02/08/2025 21:13:36.134 win_maybe_allocate DEBUG ] Managing window 0x04800002
+[ 02/08/2025 21:13:36.134 win_maybe_allocate DEBUG ] Managing window 0x03200002
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x02a00002
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x02000002
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x01200002
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x00e00001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x00a00003
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x00c0002c
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x00c00187
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x01e00001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x02400001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x02200001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x01400001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x01600001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x01a00001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x03600001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x03800001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x03a00001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x03c00001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x03e00001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x04200001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x03400001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x04000001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x04400001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x04600001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x05400001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x01800001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x04a00001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x04c00001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x04e00001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x05000001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x05200001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x05600001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x01200000
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x05800001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x01000000
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x01c00000
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x02600000
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x02800000
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x00c00001
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x00c00039
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x00c0003d
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x00c00045
+[ 02/08/2025 21:13:36.135 win_maybe_allocate DEBUG ] Managing window 0x02000000
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x02c00001
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x02a00000
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x02e00001
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x03200000
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x05a00001
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x04800000
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x05e00001
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x00c00041
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x05c00000
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x06200001
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x06000000
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x06600001
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x00c00064
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x00400000
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x00400001
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x06400000
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x06a00001
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x00c00195
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x00c00199
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x00c0019d
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x00c001a8
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x03000004
+[ 02/08/2025 21:13:36.136 win_maybe_allocate DEBUG ] Managing window 0x00c001af
+[ 02/08/2025 21:13:36.137 win_maybe_allocate DEBUG ] Failed to get geometry of window 0x00c001af: X error 9 DRAWABLE request 14 minor 0 serial 2195
+[ 02/08/2025 21:13:36.137 x_generic_async_callback DEBUG ] Expected X error for request in x_prepare_for_sleep at ../src/x.c:1111: X error 4 PIXMAP request 54 minor 0 serial 1891
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00400005
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00400005 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00400005, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x06400002
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x06400002 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] Setting WM_STATE on a toplevel window 0x06400002, weird.
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x06000002
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x06000002 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] Setting WM_STATE on a toplevel window 0x06000002, weird.
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x05c00002
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x05c00002 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] Setting WM_STATE on a toplevel window 0x05c00002, weird.
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x04800002
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x04800002 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] Setting WM_STATE on a toplevel window 0x04800002, weird.
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x03200002
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x03200002 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] Setting WM_STATE on a toplevel window 0x03200002, weird.
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x02a00002
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x02a00002 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] Setting WM_STATE on a toplevel window 0x02a00002, weird.
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x02000002
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x02000002 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] Setting WM_STATE on a toplevel window 0x02000002, weird.
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x01200002
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x01200002 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] Setting WM_STATE on a toplevel window 0x01200002, weird.
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00e00001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00e00001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00e00001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00a00003
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00a00003 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] Setting WM_STATE on a toplevel window 0x00a00003, weird.
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c0002c
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00c0002c has 2 children
+[ 02/08/2025 21:13:36.137 wm_import_start_inner DEBUG ] Starting import process for window 0x00c0002d
+[ 02/08/2025 21:13:36.137 wm_import_start_inner DEBUG ] Starting import process for window 0x00c00048
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] Setting WM_STATE on a toplevel window 0x00c0002c, weird.
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c00187
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00c00187 has 2 children
+[ 02/08/2025 21:13:36.137 wm_import_start_inner DEBUG ] Starting import process for window 0x00c0018b
+[ 02/08/2025 21:13:36.137 wm_import_start_inner DEBUG ] Starting import process for window 0x00c001a1
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] Setting WM_STATE on a toplevel window 0x00c00187, weird.
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x01e00001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x01e00001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x01e00001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x02400001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x02400001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x02400001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x02200001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x02200001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x02200001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x01400001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x01400001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x01400001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x01600001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x01600001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x01600001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x01a00001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x01a00001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x01a00001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x03600001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x03600001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x03600001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x03800001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x03800001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x03800001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x03a00001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x03a00001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x03a00001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x03c00001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x03c00001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x03c00001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x03e00001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x03e00001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x03e00001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x04200001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x04200001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x04200001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x03400001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x03400001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x03400001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x04000001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x04000001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x04000001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x04400001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x04400001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x04400001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x04600001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x04600001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x04600001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x05400001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x05400001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x05400001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x01800001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x01800001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x01800001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x04a00001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x04a00001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x04a00001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x04c00001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x04c00001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x04c00001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x04e00001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x04e00001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x04e00001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x05000001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x05000001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x05000001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x05200001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x05200001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x05200001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x05600001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x05600001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x05600001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x01200000
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x01200000 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x01200000, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x05800001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x05800001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x05800001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x01000000
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x01000000 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x01000000, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x01c00000
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x01c00000 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x01c00000, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x02600000
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x02600000 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x02600000, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x02800000
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x02800000 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x02800000, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c00001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00c00001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c00001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c00039
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00c00039 has 1 children
+[ 02/08/2025 21:13:36.137 wm_import_start_inner DEBUG ] Starting import process for window 0x00c0003a
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c00039, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c0003d
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00c0003d has 1 children
+[ 02/08/2025 21:13:36.137 wm_import_start_inner DEBUG ] Starting import process for window 0x00c0003e
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c0003d, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c00045
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00c00045 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c00045, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x02000000
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x02000000 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x02000000, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x02c00001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x02c00001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x02c00001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x02a00000
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x02a00000 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x02a00000, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x02e00001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x02e00001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x02e00001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x03200000
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x03200000 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x03200000, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x05a00001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x05a00001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x05a00001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x04800000
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x04800000 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x04800000, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x05e00001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x05e00001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x05e00001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c00041
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00c00041 has 2 children
+[ 02/08/2025 21:13:36.137 wm_import_start_inner DEBUG ] Starting import process for window 0x00c00042
+[ 02/08/2025 21:13:36.137 wm_import_start_inner DEBUG ] Starting import process for window 0x00c000fc
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] Setting WM_STATE on a toplevel window 0x00c00041, weird.
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x05c00000
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x05c00000 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x05c00000, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x06200001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x06200001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x06200001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x06000000
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x06000000 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x06000000, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x06600001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x06600001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x06600001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c00064
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00c00064 has 2 children
+[ 02/08/2025 21:13:36.137 wm_import_start_inner DEBUG ] Starting import process for window 0x00c00065
+[ 02/08/2025 21:13:36.137 wm_import_start_inner DEBUG ] Starting import process for window 0x00c00140
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] Setting WM_STATE on a toplevel window 0x00c00064, weird.
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00400000
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00400000 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00400000, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00400001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00400001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00400001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x06400000
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x06400000 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x06400000, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x06a00001
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x06a00001 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x06a00001, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c00195
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00c00195 has 1 children
+[ 02/08/2025 21:13:36.137 wm_import_start_inner DEBUG ] Starting import process for window 0x00c00196
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c00195, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c00199
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00c00199 has 1 children
+[ 02/08/2025 21:13:36.137 wm_import_start_inner DEBUG ] Starting import process for window 0x00c0019a
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c00199, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c0019d
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00c0019d has 1 children
+[ 02/08/2025 21:13:36.137 wm_import_start_inner DEBUG ] Starting import process for window 0x00c0019e
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c0019d, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c001a8
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00c001a8 has 1 children
+[ 02/08/2025 21:13:36.137 wm_import_start_inner DEBUG ] Starting import process for window 0x00c001ac
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c001a8, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x03000004
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x03000004 has 0 children
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x03000004, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c001af
+[ 02/08/2025 21:13:36.137 wm_handle_query_tree_reply DEBUG ] Window 0x00c001af has 1 children
+[ 02/08/2025 21:13:36.137 wm_import_start_inner DEBUG ] Starting import process for window 0x00c001b0
+[ 02/08/2025 21:13:36.137 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c001af, WM_STATE 0).
+[ 02/08/2025 21:13:36.137 x_generic_async_callback DEBUG ] Expected X error for request in x_prepare_for_sleep at ../src/x.c:1111: X error 4 PIXMAP request 54 minor 0 serial 2034
+[ 02/08/2025 21:13:36.137 repair_win DEBUG ] Window 0x06400002 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.137 repair_win DEBUG ] Window 0x06000002 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.137 repair_win DEBUG ] Window 0x05c00002 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.138 repair_win DEBUG ] Window 0x04800002 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.138 repair_win DEBUG ] Window 0x03200002 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.138 repair_win DEBUG ] Window 0x02a00002 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.138 repair_win DEBUG ] Window 0x02000002 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.138 repair_win DEBUG ] Window 0x01200002 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.138 repair_win DEBUG ] Window 0x00a00003 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.138 repair_win DEBUG ] Window 0x01200000 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.138 repair_win DEBUG ] Window 0x02000000 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.138 repair_win DEBUG ] Window 0x02a00000 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.138 repair_win DEBUG ] Window 0x03200000 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.138 repair_win DEBUG ] Window 0x04800000 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.138 repair_win DEBUG ] Window 0x05c00000 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.138 repair_win DEBUG ] Window 0x06000000 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.138 repair_win DEBUG ] Window 0x06400000 ((null)) has been damaged the first time
+[ 02/08/2025 21:13:36.138 ev_handle DEBUG ] event PROPERTY_N serial 0x0000088b window 0x00c001af "(Failed to get title)"
+[ 02/08/2025 21:13:36.138 ev_property_notify DEBUG ] { atom = 0x000001db, window = 0x00c001af, state = 0 }
+[ 02/08/2025 21:13:36.138 ev_handle DEBUG ] event PROPERTY_N serial 0x0000088b window 0x00c001af "(Failed to get title)"
+[ 02/08/2025 21:13:36.138 ev_property_notify DEBUG ] { atom = 0x000001f2, window = 0x00c001af, state = 0 }
+[ 02/08/2025 21:13:36.138 ev_handle DEBUG ] event PROPERTY_N serial 0x0000088b window 0x00c001af "(Failed to get title)"
+[ 02/08/2025 21:13:36.138 ev_property_notify DEBUG ] { atom = 0x000001cf, window = 0x00c001af, state = 0 }
+[ 02/08/2025 21:13:36.138 ev_handle DEBUG ] event DESTROY_NO serial 0x0000088b window 0x00c001b0 "(Failed to get title)"
+[ 02/08/2025 21:13:36.138 ev_destroy_notify DEBUG ] { event: 0x00c001af, id: 0x00c001b0 }
+[ 02/08/2025 21:13:36.138 wm_disconnect DEBUG ] Destroy window 0x00c001b0 because we can't keep track of it
+[ 02/08/2025 21:13:36.138 ev_handle DEBUG ] event DESTROY_NO serial 0x0000088b window 0x00c001af "(Failed to get title)"
+[ 02/08/2025 21:13:36.138 ev_destroy_notify DEBUG ] { event: 0x00c001af, id: 0x00c001af }
+[ 02/08/2025 21:13:36.138 wm_destroy DEBUG ] Destroying window 0x00c001af
+[ 02/08/2025 21:13:36.138 wm_tree_detach DEBUG ] Detaching toplevel window 0x00c001af.
+[ 02/08/2025 21:13:36.138 ev_handle DEBUG ] event DESTROY_NO serial 0x0000088b window 0x00c001af "(Failed to get title)"
+[ 02/08/2025 21:13:36.138 ev_destroy_notify DEBUG ] { event: 0x00000411, id: 0x00c001af }
+[ 02/08/2025 21:13:36.138 wm_disconnect DEBUG ] Child window 0x00c001af of 0x00000411 is not in our tree, ignoring
+[ 02/08/2025 21:13:36.138 ev_handle DEBUG ] event PROPERTY_N serial 0x0000088b window 0x00c0002c "(Failed to get title)"
+[ 02/08/2025 21:13:36.138 ev_property_notify DEBUG ] { atom = 0x000001da, window = 0x00c0002c, state = 0 }
+[ 02/08/2025 21:13:36.138 ev_handle DEBUG ] event PROPERTY_N serial 0x0000088b window 0x00c00187 "(Failed to get title)"
+[ 02/08/2025 21:13:36.138 ev_property_notify DEBUG ] { atom = 0x000001da, window = 0x00c00187, state = 0 }
+[ 02/08/2025 21:13:36.138 ev_handle DEBUG ] event PROPERTY_N serial 0x0000088b window 0x00c0002c "(Failed to get title)"
+[ 02/08/2025 21:13:36.138 ev_property_notify DEBUG ] { atom = 0x000001da, window = 0x00c0002c, state = 0 }
+[ 02/08/2025 21:13:36.138 ev_handle DEBUG ] event PROPERTY_N serial 0x0000088b window 0x00c00187 "(Failed to get title)"
+[ 02/08/2025 21:13:36.138 ev_property_notify DEBUG ] { atom = 0x000001da, window = 0x00c00187, state = 0 }
+[ 02/08/2025 21:13:36.138 ev_handle DEBUG ] event CREATE_NOT serial 0x0000088b window 0x00c001b3 "(Failed to get title)"
+[ 02/08/2025 21:13:36.138 wm_import_start_inner DEBUG ] Starting import process for window 0x00c001b3
+[ 02/08/2025 21:13:36.138 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c0002d, sending query tree.
+[ 02/08/2025 21:13:36.138 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c00048, sending query tree.
+[ 02/08/2025 21:13:36.138 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c0018b, sending query tree.
+[ 02/08/2025 21:13:36.138 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c001a1, sending query tree.
+[ 02/08/2025 21:13:36.138 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c0003a, sending query tree.
+[ 02/08/2025 21:13:36.138 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c0003e, sending query tree.
+[ 02/08/2025 21:13:36.138 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c00042, sending query tree.
+[ 02/08/2025 21:13:36.138 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c000fc, sending query tree.
+[ 02/08/2025 21:13:36.138 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c00065, sending query tree.
+[ 02/08/2025 21:13:36.138 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c00140, sending query tree.
+[ 02/08/2025 21:13:36.138 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c00196, sending query tree.
+[ 02/08/2025 21:13:36.138 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c0019a, sending query tree.
+[ 02/08/2025 21:13:36.138 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c0019e, sending query tree.
+[ 02/08/2025 21:13:36.138 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c001ac, sending query tree.
+[ 02/08/2025 21:13:36.138 wm_handle_set_event_mask_reply DEBUG ] Failed to set event mask for window 0x00c001b0: X error 3 WINDOW request 2 minor 0 serial 2210, ignoring this window.
+[ 02/08/2025 21:13:36.138 handle_x_events DEBUG ] Window tree changed, queueing redraw.
+[ 02/08/2025 21:13:36.138 handle_new_windows DEBUG ] Client window for window 0x06400002 changed from 0000000000 to 0x06400002
+[ 02/08/2025 21:13:36.138 ev_update_focused DEBUG ] Started async request to recheck focus
+[ 02/08/2025 21:13:36.138 handle_new_windows DEBUG ] Client window for window 0x06000002 changed from 0000000000 to 0x06000002
+[ 02/08/2025 21:13:36.138 handle_new_windows DEBUG ] Client window for window 0x05c00002 changed from 0000000000 to 0x05c00002
+[ 02/08/2025 21:13:36.138 handle_new_windows DEBUG ] Client window for window 0x04800002 changed from 0000000000 to 0x04800002
+[ 02/08/2025 21:13:36.138 handle_new_windows DEBUG ] Client window for window 0x03200002 changed from 0000000000 to 0x03200002
+[ 02/08/2025 21:13:36.138 handle_new_windows DEBUG ] Client window for window 0x02a00002 changed from 0000000000 to 0x02a00002
+[ 02/08/2025 21:13:36.138 handle_new_windows DEBUG ] Client window for window 0x02000002 changed from 0000000000 to 0x02000002
+[ 02/08/2025 21:13:36.138 handle_new_windows DEBUG ] Client window for window 0x01200002 changed from 0000000000 to 0x01200002
+[ 02/08/2025 21:13:36.138 handle_new_windows DEBUG ] Client window for window 0x00a00003 changed from 0000000000 to 0x00a00003
+[ 02/08/2025 21:13:36.138 handle_new_windows DEBUG ] Client window for window 0x00c0002c changed from 0000000000 to 0x00c0002c
+[ 02/08/2025 21:13:36.138 handle_new_windows DEBUG ] Client window for window 0x00c00187 changed from 0000000000 to 0x00c00187
+[ 02/08/2025 21:13:36.138 handle_new_windows DEBUG ] Client window for window 0x00c00041 changed from 0000000000 to 0x00c00041
+[ 02/08/2025 21:13:36.138 handle_new_windows DEBUG ] Client window for window 0x00c00064 changed from 0000000000 to 0x00c00064
+[ 02/08/2025 21:13:36.138 handle_pending_updates DEBUG ] Delayed handling of events
+[ 02/08/2025 21:13:36.138 win_map_start DEBUG ] Mapping (0x06400000 "(null)"), old state 0
+[ 02/08/2025 21:13:36.138 win_update_wintype DEBUG ] Window (0x06400000) has type 0x100
+[ 02/08/2025 21:13:36.138 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x06400000: 0000000000
+[ 02/08/2025 21:13:36.138 win_get_leader_property DEBUG ] window 0x06400000: leader 0000000000
+[ 02/08/2025 21:13:36.138 win_update_name DEBUG ] (0x06400000): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.138 win_update_name DEBUG ] Unsetting window name for 0x06400000
+[ 02/08/2025 21:13:36.138 win_release_shadow DEBUG ] Releasing shadow of window 0x06400000 ((null))
+[ 02/08/2025 21:13:36.138 win_update_wintype DEBUG ] Window (0x06400000) has type 0x100
+[ 02/08/2025 21:13:36.139 win_update_name DEBUG ] (0x06400000): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.139 win_update_name DEBUG ] Unsetting window name for 0x06400000
+[ 02/08/2025 21:13:36.139 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x06400000: 0000000000
+[ 02/08/2025 21:13:36.139 win_get_leader_property DEBUG ] window 0x06400000: leader 0000000000
+[ 02/08/2025 21:13:36.139 win_map_start DEBUG ] Mapping (0x06000000 "(null)"), old state 0
+[ 02/08/2025 21:13:36.139 win_update_wintype DEBUG ] Window (0x06000000) has type 0x100
+[ 02/08/2025 21:13:36.139 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x06000000: 0000000000
+[ 02/08/2025 21:13:36.139 win_get_leader_property DEBUG ] window 0x06000000: leader 0000000000
+[ 02/08/2025 21:13:36.139 win_update_name DEBUG ] (0x06000000): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.139 win_update_name DEBUG ] Unsetting window name for 0x06000000
+[ 02/08/2025 21:13:36.139 win_release_shadow DEBUG ] Releasing shadow of window 0x06000000 ((null))
+[ 02/08/2025 21:13:36.139 win_update_wintype DEBUG ] Window (0x06000000) has type 0x100
+[ 02/08/2025 21:13:36.139 win_update_name DEBUG ] (0x06000000): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.139 win_update_name DEBUG ] Unsetting window name for 0x06000000
+[ 02/08/2025 21:13:36.139 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x06000000: 0000000000
+[ 02/08/2025 21:13:36.139 win_get_leader_property DEBUG ] window 0x06000000: leader 0000000000
+[ 02/08/2025 21:13:36.139 win_map_start DEBUG ] Mapping (0x05c00000 "(null)"), old state 0
+[ 02/08/2025 21:13:36.139 win_update_wintype DEBUG ] Window (0x05c00000) has type 0x100
+[ 02/08/2025 21:13:36.139 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x05c00000: 0000000000
+[ 02/08/2025 21:13:36.139 win_get_leader_property DEBUG ] window 0x05c00000: leader 0000000000
+[ 02/08/2025 21:13:36.139 win_update_name DEBUG ] (0x05c00000): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.139 win_update_name DEBUG ] Unsetting window name for 0x05c00000
+[ 02/08/2025 21:13:36.139 win_release_shadow DEBUG ] Releasing shadow of window 0x05c00000 ((null))
+[ 02/08/2025 21:13:36.140 win_update_wintype DEBUG ] Window (0x05c00000) has type 0x100
+[ 02/08/2025 21:13:36.140 win_update_name DEBUG ] (0x05c00000): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.140 win_update_name DEBUG ] Unsetting window name for 0x05c00000
+[ 02/08/2025 21:13:36.140 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x05c00000: 0000000000
+[ 02/08/2025 21:13:36.140 win_get_leader_property DEBUG ] window 0x05c00000: leader 0000000000
+[ 02/08/2025 21:13:36.140 win_map_start DEBUG ] Mapping (0x04800000 "(null)"), old state 0
+[ 02/08/2025 21:13:36.140 win_update_wintype DEBUG ] Window (0x04800000) has type 0x100
+[ 02/08/2025 21:13:36.140 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x04800000: 0000000000
+[ 02/08/2025 21:13:36.140 win_get_leader_property DEBUG ] window 0x04800000: leader 0000000000
+[ 02/08/2025 21:13:36.140 win_update_name DEBUG ] (0x04800000): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.140 win_update_name DEBUG ] Unsetting window name for 0x04800000
+[ 02/08/2025 21:13:36.140 win_release_shadow DEBUG ] Releasing shadow of window 0x04800000 ((null))
+[ 02/08/2025 21:13:36.140 win_update_wintype DEBUG ] Window (0x04800000) has type 0x100
+[ 02/08/2025 21:13:36.140 win_update_name DEBUG ] (0x04800000): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.140 win_update_name DEBUG ] Unsetting window name for 0x04800000
+[ 02/08/2025 21:13:36.140 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x04800000: 0000000000
+[ 02/08/2025 21:13:36.140 win_get_leader_property DEBUG ] window 0x04800000: leader 0000000000
+[ 02/08/2025 21:13:36.140 win_map_start DEBUG ] Mapping (0x03200000 "(null)"), old state 0
+[ 02/08/2025 21:13:36.140 win_update_wintype DEBUG ] Window (0x03200000) has type 0x100
+[ 02/08/2025 21:13:36.140 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x03200000: 0000000000
+[ 02/08/2025 21:13:36.140 win_get_leader_property DEBUG ] window 0x03200000: leader 0000000000
+[ 02/08/2025 21:13:36.140 win_update_name DEBUG ] (0x03200000): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.140 win_update_name DEBUG ] Unsetting window name for 0x03200000
+[ 02/08/2025 21:13:36.141 win_release_shadow DEBUG ] Releasing shadow of window 0x03200000 ((null))
+[ 02/08/2025 21:13:36.141 win_update_wintype DEBUG ] Window (0x03200000) has type 0x100
+[ 02/08/2025 21:13:36.141 win_update_name DEBUG ] (0x03200000): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.141 win_update_name DEBUG ] Unsetting window name for 0x03200000
+[ 02/08/2025 21:13:36.141 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x03200000: 0000000000
+[ 02/08/2025 21:13:36.141 win_get_leader_property DEBUG ] window 0x03200000: leader 0000000000
+[ 02/08/2025 21:13:36.141 win_map_start DEBUG ] Mapping (0x02a00000 "(null)"), old state 0
+[ 02/08/2025 21:13:36.141 win_update_wintype DEBUG ] Window (0x02a00000) has type 0x100
+[ 02/08/2025 21:13:36.141 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x02a00000: 0000000000
+[ 02/08/2025 21:13:36.141 win_get_leader_property DEBUG ] window 0x02a00000: leader 0000000000
+[ 02/08/2025 21:13:36.141 win_update_name DEBUG ] (0x02a00000): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.141 win_update_name DEBUG ] Unsetting window name for 0x02a00000
+[ 02/08/2025 21:13:36.141 win_release_shadow DEBUG ] Releasing shadow of window 0x02a00000 ((null))
+[ 02/08/2025 21:13:36.141 win_update_wintype DEBUG ] Window (0x02a00000) has type 0x100
+[ 02/08/2025 21:13:36.141 win_update_name DEBUG ] (0x02a00000): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.141 win_update_name DEBUG ] Unsetting window name for 0x02a00000
+[ 02/08/2025 21:13:36.141 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x02a00000: 0000000000
+[ 02/08/2025 21:13:36.141 win_get_leader_property DEBUG ] window 0x02a00000: leader 0000000000
+[ 02/08/2025 21:13:36.141 win_map_start DEBUG ] Mapping (0x02000000 "(null)"), old state 0
+[ 02/08/2025 21:13:36.141 win_update_wintype DEBUG ] Window (0x02000000) has type 0x100
+[ 02/08/2025 21:13:36.141 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x02000000: 0000000000
+[ 02/08/2025 21:13:36.141 win_get_leader_property DEBUG ] window 0x02000000: leader 0000000000
+[ 02/08/2025 21:13:36.141 win_update_name DEBUG ] (0x02000000): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.141 win_update_name DEBUG ] Unsetting window name for 0x02000000
+[ 02/08/2025 21:13:36.142 win_release_shadow DEBUG ] Releasing shadow of window 0x02000000 ((null))
+[ 02/08/2025 21:13:36.142 win_update_wintype DEBUG ] Window (0x02000000) has type 0x100
+[ 02/08/2025 21:13:36.142 win_update_name DEBUG ] (0x02000000): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.142 win_update_name DEBUG ] Unsetting window name for 0x02000000
+[ 02/08/2025 21:13:36.142 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x02000000: 0000000000
+[ 02/08/2025 21:13:36.142 win_get_leader_property DEBUG ] window 0x02000000: leader 0000000000
+[ 02/08/2025 21:13:36.142 win_map_start DEBUG ] Mapping (0x01200000 "(null)"), old state 0
+[ 02/08/2025 21:13:36.142 win_update_wintype DEBUG ] Window (0x01200000) has type 0x100
+[ 02/08/2025 21:13:36.142 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x01200000: 0000000000
+[ 02/08/2025 21:13:36.142 win_get_leader_property DEBUG ] window 0x01200000: leader 0000000000
+[ 02/08/2025 21:13:36.142 win_update_name DEBUG ] (0x01200000): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.142 win_update_name DEBUG ] Unsetting window name for 0x01200000
+[ 02/08/2025 21:13:36.142 win_release_shadow DEBUG ] Releasing shadow of window 0x01200000 ((null))
+[ 02/08/2025 21:13:36.142 win_update_wintype DEBUG ] Window (0x01200000) has type 0x100
+[ 02/08/2025 21:13:36.142 win_update_name DEBUG ] (0x01200000): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.142 win_update_name DEBUG ] Unsetting window name for 0x01200000
+[ 02/08/2025 21:13:36.142 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x01200000: 0000000000
+[ 02/08/2025 21:13:36.142 win_get_leader_property DEBUG ] window 0x01200000: leader 0000000000
+[ 02/08/2025 21:13:36.142 win_map_start DEBUG ] Mapping (0x00a00003 "(null)"), old state 0
+[ 02/08/2025 21:13:36.142 win_update_wintype DEBUG ] Window (0x00a00003) has type 0x100
+[ 02/08/2025 21:13:36.142 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x00a00003: 0000000000
+[ 02/08/2025 21:13:36.142 win_get_leader_property DEBUG ] window 0x00a00003: leader 0000000000
+[ 02/08/2025 21:13:36.142 win_update_name DEBUG ] (0x00a00003): client = 0x00a00003, name = "picom --log-level=debug --log-file=picom.log", ret = 1
+[ 02/08/2025 21:13:36.143 win_release_shadow DEBUG ] Releasing shadow of window 0x00a00003 (picom --log-level=debug --log-file=picom.log)
+[ 02/08/2025 21:13:36.143 win_update_wintype DEBUG ] Window (0x00a00003) has type 0x100
+[ 02/08/2025 21:13:36.143 win_update_name DEBUG ] (0x00a00003): client = 0x00a00003, name = "picom --log-level=debug --log-file=picom.log", ret = 0
+[ 02/08/2025 21:13:36.143 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x00a00003: 0000000000
+[ 02/08/2025 21:13:36.143 win_get_leader_property DEBUG ] window 0x00a00003: leader 0000000000
+[ 02/08/2025 21:13:36.143 win_map_start DEBUG ] Mapping (0x01200002 "(null)"), old state 0
+[ 02/08/2025 21:13:36.143 win_update_wintype DEBUG ] Window (0x01200002) has type 0x4
+[ 02/08/2025 21:13:36.143 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x01200002: 0000000000
+[ 02/08/2025 21:13:36.143 win_get_leader_property DEBUG ] window 0x01200002: leader 0000000000
+[ 02/08/2025 21:13:36.143 win_update_name DEBUG ] (0x01200002): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.143 win_update_name DEBUG ] (0x01200002): client = 0x01200002, name = "polybar-example_eDP-1", ret = 1
+[ 02/08/2025 21:13:36.143 win_release_shadow DEBUG ] Releasing shadow of window 0x01200002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.143 win_update_wintype DEBUG ] Window (0x01200002) has type 0x4
+[ 02/08/2025 21:13:36.143 win_update_name DEBUG ] (0x01200002): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.143 win_update_name DEBUG ] (0x01200002): client = 0x01200002, name = "polybar-example_eDP-1", ret = 0
+[ 02/08/2025 21:13:36.143 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x01200002: 0000000000
+[ 02/08/2025 21:13:36.143 win_get_leader_property DEBUG ] window 0x01200002: leader 0000000000
+[ 02/08/2025 21:13:36.143 win_map_start DEBUG ] Mapping (0x02000002 "(null)"), old state 0
+[ 02/08/2025 21:13:36.143 win_update_wintype DEBUG ] Window (0x02000002) has type 0x4
+[ 02/08/2025 21:13:36.143 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x02000002: 0000000000
+[ 02/08/2025 21:13:36.144 win_get_leader_property DEBUG ] window 0x02000002: leader 0000000000
+[ 02/08/2025 21:13:36.144 win_update_name DEBUG ] (0x02000002): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.144 win_update_name DEBUG ] (0x02000002): client = 0x02000002, name = "polybar-example_eDP-1", ret = 1
+[ 02/08/2025 21:13:36.144 win_release_shadow DEBUG ] Releasing shadow of window 0x02000002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.144 win_update_wintype DEBUG ] Window (0x02000002) has type 0x4
+[ 02/08/2025 21:13:36.144 win_update_name DEBUG ] (0x02000002): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.144 win_update_name DEBUG ] (0x02000002): client = 0x02000002, name = "polybar-example_eDP-1", ret = 0
+[ 02/08/2025 21:13:36.144 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x02000002: 0000000000
+[ 02/08/2025 21:13:36.144 win_get_leader_property DEBUG ] window 0x02000002: leader 0000000000
+[ 02/08/2025 21:13:36.144 win_map_start DEBUG ] Mapping (0x02a00002 "(null)"), old state 0
+[ 02/08/2025 21:13:36.144 win_update_wintype DEBUG ] Window (0x02a00002) has type 0x4
+[ 02/08/2025 21:13:36.144 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x02a00002: 0000000000
+[ 02/08/2025 21:13:36.144 win_get_leader_property DEBUG ] window 0x02a00002: leader 0000000000
+[ 02/08/2025 21:13:36.144 win_update_name DEBUG ] (0x02a00002): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.144 win_update_name DEBUG ] (0x02a00002): client = 0x02a00002, name = "polybar-example_eDP-1", ret = 1
+[ 02/08/2025 21:13:36.144 win_release_shadow DEBUG ] Releasing shadow of window 0x02a00002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.144 win_update_wintype DEBUG ] Window (0x02a00002) has type 0x4
+[ 02/08/2025 21:13:36.144 win_update_name DEBUG ] (0x02a00002): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.144 win_update_name DEBUG ] (0x02a00002): client = 0x02a00002, name = "polybar-example_eDP-1", ret = 0
+[ 02/08/2025 21:13:36.145 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x02a00002: 0000000000
+[ 02/08/2025 21:13:36.145 win_get_leader_property DEBUG ] window 0x02a00002: leader 0000000000
+[ 02/08/2025 21:13:36.145 win_map_start DEBUG ] Mapping (0x03200002 "(null)"), old state 0
+[ 02/08/2025 21:13:36.145 win_update_wintype DEBUG ] Window (0x03200002) has type 0x4
+[ 02/08/2025 21:13:36.145 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x03200002: 0000000000
+[ 02/08/2025 21:13:36.145 win_get_leader_property DEBUG ] window 0x03200002: leader 0000000000
+[ 02/08/2025 21:13:36.145 win_update_name DEBUG ] (0x03200002): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.145 win_update_name DEBUG ] (0x03200002): client = 0x03200002, name = "polybar-example_eDP-1", ret = 1
+[ 02/08/2025 21:13:36.145 win_release_shadow DEBUG ] Releasing shadow of window 0x03200002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.145 win_update_wintype DEBUG ] Window (0x03200002) has type 0x4
+[ 02/08/2025 21:13:36.145 win_update_name DEBUG ] (0x03200002): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.145 win_update_name DEBUG ] (0x03200002): client = 0x03200002, name = "polybar-example_eDP-1", ret = 0
+[ 02/08/2025 21:13:36.145 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x03200002: 0000000000
+[ 02/08/2025 21:13:36.145 win_get_leader_property DEBUG ] window 0x03200002: leader 0000000000
+[ 02/08/2025 21:13:36.145 win_map_start DEBUG ] Mapping (0x04800002 "(null)"), old state 0
+[ 02/08/2025 21:13:36.145 win_update_wintype DEBUG ] Window (0x04800002) has type 0x4
+[ 02/08/2025 21:13:36.145 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x04800002: 0000000000
+[ 02/08/2025 21:13:36.145 win_get_leader_property DEBUG ] window 0x04800002: leader 0000000000
+[ 02/08/2025 21:13:36.145 win_update_name DEBUG ] (0x04800002): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.145 win_update_name DEBUG ] (0x04800002): client = 0x04800002, name = "polybar-example_eDP-1", ret = 1
+[ 02/08/2025 21:13:36.145 win_release_shadow DEBUG ] Releasing shadow of window 0x04800002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.145 win_update_wintype DEBUG ] Window (0x04800002) has type 0x4
+[ 02/08/2025 21:13:36.146 win_update_name DEBUG ] (0x04800002): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.146 win_update_name DEBUG ] (0x04800002): client = 0x04800002, name = "polybar-example_eDP-1", ret = 0
+[ 02/08/2025 21:13:36.146 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x04800002: 0000000000
+[ 02/08/2025 21:13:36.146 win_get_leader_property DEBUG ] window 0x04800002: leader 0000000000
+[ 02/08/2025 21:13:36.146 win_map_start DEBUG ] Mapping (0x05c00002 "(null)"), old state 0
+[ 02/08/2025 21:13:36.146 win_update_wintype DEBUG ] Window (0x05c00002) has type 0x4
+[ 02/08/2025 21:13:36.146 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x05c00002: 0000000000
+[ 02/08/2025 21:13:36.146 win_get_leader_property DEBUG ] window 0x05c00002: leader 0000000000
+[ 02/08/2025 21:13:36.146 win_update_name DEBUG ] (0x05c00002): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.146 win_update_name DEBUG ] (0x05c00002): client = 0x05c00002, name = "polybar-example_eDP-1", ret = 1
+[ 02/08/2025 21:13:36.146 win_release_shadow DEBUG ] Releasing shadow of window 0x05c00002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.146 win_update_wintype DEBUG ] Window (0x05c00002) has type 0x4
+[ 02/08/2025 21:13:36.146 win_update_name DEBUG ] (0x05c00002): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.146 win_update_name DEBUG ] (0x05c00002): client = 0x05c00002, name = "polybar-example_eDP-1", ret = 0
+[ 02/08/2025 21:13:36.146 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x05c00002: 0000000000
+[ 02/08/2025 21:13:36.146 win_get_leader_property DEBUG ] window 0x05c00002: leader 0000000000
+[ 02/08/2025 21:13:36.146 win_map_start DEBUG ] Mapping (0x06000002 "(null)"), old state 0
+[ 02/08/2025 21:13:36.146 win_update_wintype DEBUG ] Window (0x06000002) has type 0x4
+[ 02/08/2025 21:13:36.146 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x06000002: 0000000000
+[ 02/08/2025 21:13:36.146 win_get_leader_property DEBUG ] window 0x06000002: leader 0000000000
+[ 02/08/2025 21:13:36.146 win_update_name DEBUG ] (0x06000002): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.146 win_update_name DEBUG ] (0x06000002): client = 0x06000002, name = "polybar-example_eDP-1", ret = 1
+[ 02/08/2025 21:13:36.147 win_release_shadow DEBUG ] Releasing shadow of window 0x06000002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.147 win_update_wintype DEBUG ] Window (0x06000002) has type 0x4
+[ 02/08/2025 21:13:36.147 win_update_name DEBUG ] (0x06000002): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.147 win_update_name DEBUG ] (0x06000002): client = 0x06000002, name = "polybar-example_eDP-1", ret = 0
+[ 02/08/2025 21:13:36.147 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x06000002: 0000000000
+[ 02/08/2025 21:13:36.147 win_get_leader_property DEBUG ] window 0x06000002: leader 0000000000
+[ 02/08/2025 21:13:36.147 win_map_start DEBUG ] Mapping (0x06400002 "(null)"), old state 0
+[ 02/08/2025 21:13:36.147 win_update_wintype DEBUG ] Window (0x06400002) has type 0x4
+[ 02/08/2025 21:13:36.147 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x06400002: 0000000000
+[ 02/08/2025 21:13:36.147 win_get_leader_property DEBUG ] window 0x06400002: leader 0000000000
+[ 02/08/2025 21:13:36.147 win_update_name DEBUG ] (0x06400002): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.147 win_update_name DEBUG ] (0x06400002): client = 0x06400002, name = "polybar-example_eDP-1", ret = 1
+[ 02/08/2025 21:13:36.147 win_release_shadow DEBUG ] Releasing shadow of window 0x06400002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.147 win_update_wintype DEBUG ] Window (0x06400002) has type 0x4
+[ 02/08/2025 21:13:36.147 win_update_name DEBUG ] (0x06400002): _NET_WM_NAME unset, falling back to WM_NAME.
+[ 02/08/2025 21:13:36.147 win_update_name DEBUG ] (0x06400002): client = 0x06400002, name = "polybar-example_eDP-1", ret = 0
+[ 02/08/2025 21:13:36.147 win_get_leader_property DEBUG ] Leader via WM_TRANSIENT_FOR of window 0x06400002: 0000000000
+[ 02/08/2025 21:13:36.147 win_get_leader_property DEBUG ] window 0x06400002: leader 0000000000
+[ 02/08/2025 21:13:36.147 wm_refresh_leaders DEBUG ] Refreshing window leaders, tree consistency: 0
+[ 02/08/2025 21:13:36.147 win_on_factor_change DEBUG ] Window 0x06400000, client 0x06400000 ((null)) factor change
+[ 02/08/2025 21:13:36.147 c2_match_once DEBUG ] (0x06400000): leaf: result = 0, client = 0000000000,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.147 c2_match_once DEBUG ] (0x06400000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.147 c2_match_once DEBUG ] (0x06400000): leaf: result = 0, client = 0000000000,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.147 c2_match_once DEBUG ] (0x06400000): leaf: result = 0, client = 0000000000,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.147 c2_match_once DEBUG ] (0x06400000): leaf: result = 0, client = 0000000000,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): leaf: result = 0, client = 0000000000,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): leaf: result = 0, client = 0000000000,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): branch: result = 0, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): leaf: result = 0, client = 0000000000,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): leaf: result = 0, client = 0000000000,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): leaf: result = 0, client = 0000000000,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): leaf: result = 0, client = 0000000000,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): leaf: result = 0, client = 0000000000,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): leaf: result = 0, client = 0000000000,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06400000): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.148 win_on_factor_change DEBUG ] Window mode changed to 2
+[ 02/08/2025 21:13:36.148 win_on_factor_change DEBUG ] Window 0x06000000, client 0x06000000 ((null)) factor change
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): leaf: result = 0, client = 0000000000,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): leaf: result = 0, client = 0000000000,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): leaf: result = 0, client = 0000000000,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): leaf: result = 0, client = 0000000000,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): leaf: result = 0, client = 0000000000,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): leaf: result = 0, client = 0000000000,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): branch: result = 0, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): leaf: result = 0, client = 0000000000,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): leaf: result = 0, client = 0000000000,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): leaf: result = 0, client = 0000000000,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): leaf: result = 0, client = 0000000000,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): leaf: result = 0, client = 0000000000,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): leaf: result = 0, client = 0000000000,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x06000000): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.148 win_on_factor_change DEBUG ] Window mode changed to 2
+[ 02/08/2025 21:13:36.148 win_on_factor_change DEBUG ] Window 0x05c00000, client 0x05c00000 ((null)) factor change
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): leaf: result = 0, client = 0000000000,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): leaf: result = 0, client = 0000000000,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): leaf: result = 0, client = 0000000000,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): leaf: result = 0, client = 0000000000,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): leaf: result = 0, client = 0000000000,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): leaf: result = 0, client = 0000000000,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): branch: result = 0, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): leaf: result = 0, client = 0000000000,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): leaf: result = 0, client = 0000000000,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): leaf: result = 0, client = 0000000000,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): leaf: result = 0, client = 0000000000,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): leaf: result = 0, client = 0000000000,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): leaf: result = 0, client = 0000000000,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x05c00000): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.148 win_on_factor_change DEBUG ] Window mode changed to 2
+[ 02/08/2025 21:13:36.148 win_on_factor_change DEBUG ] Window 0x04800000, client 0x04800000 ((null)) factor change
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): leaf: result = 0, client = 0000000000,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): leaf: result = 0, client = 0000000000,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): leaf: result = 0, client = 0000000000,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): leaf: result = 0, client = 0000000000,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): leaf: result = 0, client = 0000000000,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): leaf: result = 0, client = 0000000000,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): branch: result = 0, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): leaf: result = 0, client = 0000000000,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): leaf: result = 0, client = 0000000000,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): leaf: result = 0, client = 0000000000,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): leaf: result = 0, client = 0000000000,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): leaf: result = 0, client = 0000000000,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): leaf: result = 0, client = 0000000000,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x04800000): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.148 win_on_factor_change DEBUG ] Window mode changed to 2
+[ 02/08/2025 21:13:36.148 win_on_factor_change DEBUG ] Window 0x03200000, client 0x03200000 ((null)) factor change
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): leaf: result = 0, client = 0000000000,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): leaf: result = 0, client = 0000000000,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): leaf: result = 0, client = 0000000000,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): leaf: result = 0, client = 0000000000,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): leaf: result = 0, client = 0000000000,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): leaf: result = 0, client = 0000000000,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): branch: result = 0, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): leaf: result = 0, client = 0000000000,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): leaf: result = 0, client = 0000000000,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): leaf: result = 0, client = 0000000000,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): leaf: result = 0, client = 0000000000,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): leaf: result = 0, client = 0000000000,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): leaf: result = 0, client = 0000000000,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x03200000): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.148 win_on_factor_change DEBUG ] Window mode changed to 2
+[ 02/08/2025 21:13:36.148 win_on_factor_change DEBUG ] Window 0x02a00000, client 0x02a00000 ((null)) factor change
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): leaf: result = 0, client = 0000000000,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): leaf: result = 0, client = 0000000000,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): leaf: result = 0, client = 0000000000,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): leaf: result = 0, client = 0000000000,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): leaf: result = 0, client = 0000000000,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): leaf: result = 0, client = 0000000000,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): branch: result = 0, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): leaf: result = 0, client = 0000000000,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): leaf: result = 0, client = 0000000000,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): leaf: result = 0, client = 0000000000,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): leaf: result = 0, client = 0000000000,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): leaf: result = 0, client = 0000000000,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): leaf: result = 0, client = 0000000000,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02a00000): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.148 win_on_factor_change DEBUG ] Window mode changed to 2
+[ 02/08/2025 21:13:36.148 win_on_factor_change DEBUG ] Window 0x02000000, client 0x02000000 ((null)) factor change
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02000000): leaf: result = 0, client = 0000000000,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02000000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02000000): leaf: result = 0, client = 0000000000,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02000000): leaf: result = 0, client = 0000000000,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02000000): leaf: result = 0, client = 0000000000,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02000000): leaf: result = 0, client = 0000000000,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02000000): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02000000): leaf: result = 0, client = 0000000000,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02000000): branch: result = 0, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02000000): leaf: result = 0, client = 0000000000,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02000000): leaf: result = 0, client = 0000000000,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02000000): leaf: result = 0, client = 0000000000,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02000000): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02000000): leaf: result = 0, client = 0000000000,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.148 c2_match_once DEBUG ] (0x02000000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000000): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000000): leaf: result = 0, client = 0000000000,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000000): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000000): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000000): leaf: result = 0, client = 0000000000,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000000): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.149 win_on_factor_change DEBUG ] Window mode changed to 2
+[ 02/08/2025 21:13:36.149 win_on_factor_change DEBUG ] Window 0x01200000, client 0x01200000 ((null)) factor change
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): leaf: result = 0, client = 0000000000,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): leaf: result = 0, client = 0000000000,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): leaf: result = 0, client = 0000000000,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): leaf: result = 0, client = 0000000000,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): leaf: result = 0, client = 0000000000,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): leaf: result = 0, client = 0000000000,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): branch: result = 0, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): leaf: result = 0, client = 0000000000,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): leaf: result = 0, client = 0000000000,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): leaf: result = 0, client = 0000000000,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): leaf: result = 0, client = 0000000000,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): leaf: result = 0, client = 0000000000,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): leaf: result = 0, client = 0000000000,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): leaf: result = 0, client = 0000000000,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200000): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.149 win_on_factor_change DEBUG ] Window mode changed to 2
+[ 02/08/2025 21:13:36.149 win_on_factor_change DEBUG ] Window 0x00a00003, client 0x00a00003 (picom --log-level=debug --log-file=picom.log) factor change
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): branch: result = 0, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x00a00003): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.149 win_on_factor_change DEBUG ] Window mode changed to 0
+[ 02/08/2025 21:13:36.149 win_on_factor_change DEBUG ] Window 0x01200002, client 0x01200002 (polybar-example_eDP-1) factor change
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): leaf: result = 0, client = 0x01200002,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): leaf: result = 0, client = 0x01200002,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): leaf: result = 0, client = 0x01200002,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): leaf: result = 0, client = 0x01200002,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): leaf: result = 1, client = 0x01200002,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): branch: result = 1, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): branch: result = 1, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): leaf: result = 1, client = 0x01200002,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): leaf: result = 1, client = 0x01200002,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): branch: result = 1, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): leaf: result = 0, client = 0x01200002,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): leaf: result = 0, client = 0x01200002,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): leaf: result = 0, client = 0x01200002,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): leaf: result = 0, client = 0x01200002,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): leaf: result = 0, client = 0x01200002,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x01200002): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.149 win_on_factor_change DEBUG ] Window mode changed to 0
+[ 02/08/2025 21:13:36.149 win_on_factor_change DEBUG ] Window 0x02000002, client 0x02000002 (polybar-example_eDP-1) factor change
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): leaf: result = 0, client = 0x02000002,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): leaf: result = 0, client = 0x02000002,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): leaf: result = 0, client = 0x02000002,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): leaf: result = 0, client = 0x02000002,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): leaf: result = 1, client = 0x02000002,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): branch: result = 1, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): branch: result = 1, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): leaf: result = 1, client = 0x02000002,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): leaf: result = 1, client = 0x02000002,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): branch: result = 1, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): leaf: result = 0, client = 0x02000002,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): leaf: result = 0, client = 0x02000002,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): leaf: result = 0, client = 0x02000002,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): leaf: result = 0, client = 0x02000002,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): leaf: result = 0, client = 0x02000002,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02000002): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.149 win_on_factor_change DEBUG ] Window mode changed to 0
+[ 02/08/2025 21:13:36.149 win_on_factor_change DEBUG ] Window 0x02a00002, client 0x02a00002 (polybar-example_eDP-1) factor change
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): leaf: result = 0, client = 0x02a00002,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): leaf: result = 0, client = 0x02a00002,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): leaf: result = 0, client = 0x02a00002,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): leaf: result = 0, client = 0x02a00002,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): leaf: result = 1, client = 0x02a00002,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): branch: result = 1, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): branch: result = 1, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): leaf: result = 1, client = 0x02a00002,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): leaf: result = 1, client = 0x02a00002,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): branch: result = 1, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): leaf: result = 0, client = 0x02a00002,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): leaf: result = 0, client = 0x02a00002,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): leaf: result = 0, client = 0x02a00002,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): leaf: result = 0, client = 0x02a00002,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): leaf: result = 0, client = 0x02a00002,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x02a00002): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.149 win_on_factor_change DEBUG ] Window mode changed to 0
+[ 02/08/2025 21:13:36.149 win_on_factor_change DEBUG ] Window 0x03200002, client 0x03200002 (polybar-example_eDP-1) factor change
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): leaf: result = 0, client = 0x03200002,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): leaf: result = 0, client = 0x03200002,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): leaf: result = 0, client = 0x03200002,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): leaf: result = 0, client = 0x03200002,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): leaf: result = 1, client = 0x03200002,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): branch: result = 1, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): branch: result = 1, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): leaf: result = 1, client = 0x03200002,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): leaf: result = 1, client = 0x03200002,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): branch: result = 1, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): leaf: result = 0, client = 0x03200002,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): leaf: result = 0, client = 0x03200002,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): leaf: result = 0, client = 0x03200002,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): leaf: result = 0, client = 0x03200002,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): leaf: result = 0, client = 0x03200002,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.149 c2_match_once DEBUG ] (0x03200002): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.150 win_on_factor_change DEBUG ] Window mode changed to 0
+[ 02/08/2025 21:13:36.150 win_on_factor_change DEBUG ] Window 0x04800002, client 0x04800002 (polybar-example_eDP-1) factor change
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): leaf: result = 0, client = 0x04800002,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): leaf: result = 0, client = 0x04800002,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): leaf: result = 0, client = 0x04800002,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): leaf: result = 0, client = 0x04800002,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): leaf: result = 1, client = 0x04800002,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): branch: result = 1, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): branch: result = 1, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): leaf: result = 1, client = 0x04800002,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): leaf: result = 1, client = 0x04800002,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): branch: result = 1, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): leaf: result = 0, client = 0x04800002,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): leaf: result = 0, client = 0x04800002,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): leaf: result = 0, client = 0x04800002,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): leaf: result = 0, client = 0x04800002,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): leaf: result = 0, client = 0x04800002,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x04800002): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.150 win_on_factor_change DEBUG ] Window mode changed to 0
+[ 02/08/2025 21:13:36.150 win_on_factor_change DEBUG ] Window 0x05c00002, client 0x05c00002 (polybar-example_eDP-1) factor change
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): leaf: result = 0, client = 0x05c00002,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): leaf: result = 0, client = 0x05c00002,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): leaf: result = 0, client = 0x05c00002,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): leaf: result = 0, client = 0x05c00002,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): leaf: result = 1, client = 0x05c00002,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): branch: result = 1, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): branch: result = 1, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): leaf: result = 1, client = 0x05c00002,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): leaf: result = 1, client = 0x05c00002,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): branch: result = 1, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): leaf: result = 0, client = 0x05c00002,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): leaf: result = 0, client = 0x05c00002,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): leaf: result = 0, client = 0x05c00002,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): leaf: result = 0, client = 0x05c00002,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): leaf: result = 0, client = 0x05c00002,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x05c00002): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.150 win_on_factor_change DEBUG ] Window mode changed to 0
+[ 02/08/2025 21:13:36.150 win_on_factor_change DEBUG ] Window 0x06000002, client 0x06000002 (polybar-example_eDP-1) factor change
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): leaf: result = 0, client = 0x06000002,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): leaf: result = 0, client = 0x06000002,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): leaf: result = 0, client = 0x06000002,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): leaf: result = 0, client = 0x06000002,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): leaf: result = 1, client = 0x06000002,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): branch: result = 1, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): branch: result = 1, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): leaf: result = 1, client = 0x06000002,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): leaf: result = 1, client = 0x06000002,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): branch: result = 1, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): leaf: result = 0, client = 0x06000002,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): leaf: result = 0, client = 0x06000002,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): leaf: result = 0, client = 0x06000002,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): leaf: result = 0, client = 0x06000002,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): leaf: result = 0, client = 0x06000002,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06000002): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.150 win_on_factor_change DEBUG ] Window mode changed to 0
+[ 02/08/2025 21:13:36.150 win_on_factor_change DEBUG ] Window 0x06400002, client 0x06400002 (polybar-example_eDP-1) factor change
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): leaf: result = 0, client = 0x06400002,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): leaf: result = 0, client = 0x06400002,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): leaf: result = 0, client = 0x06400002,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): leaf: result = 0, client = 0x06400002,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): leaf: result = 1, client = 0x06400002,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): branch: result = 1, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): branch: result = 1, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): leaf: result = 1, client = 0x06400002,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): leaf: result = 1, client = 0x06400002,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): branch: result = 1, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): leaf: result = 0, client = 0x06400002,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): leaf: result = 0, client = 0x06400002,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): leaf: result = 0, client = 0x06400002,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): leaf: result = 0, client = 0x06400002,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): leaf: result = 0, client = 0x06400002,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.150 c2_match_once DEBUG ] (0x06400002): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.150 win_on_factor_change DEBUG ] Window mode changed to 0
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x06400000 ((null))
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x06000000 ((null))
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x05c00000 ((null))
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x04800000 ((null))
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x03200000 ((null))
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x02a00000 ((null))
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x02000000 ((null))
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x01200000 ((null))
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x00a00003 (picom --log-level=debug --log-file=picom.log)
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x01200002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x02000002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x02a00002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x03200002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x04800002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x05c00002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x06000002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.150 win_process_animation_and_state_change DEBUG ] Starting animation open for window 0x06400002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.150 win_process_image_flags DEBUG ] New named pixmap for 0x06400000 ((null)) : 0x0300023a
+[ 02/08/2025 21:13:36.150 win_release_pixmap DEBUG ] Releasing pixmap of window 0x06400000 ((null))
+[ 02/08/2025 21:13:36.150 win_process_image_flags DEBUG ] New named pixmap for 0x06000000 ((null)) : 0x0300023c
+[ 02/08/2025 21:13:36.150 win_release_pixmap DEBUG ] Releasing pixmap of window 0x06000000 ((null))
+[ 02/08/2025 21:13:36.150 win_process_image_flags DEBUG ] New named pixmap for 0x05c00000 ((null)) : 0x0300023e
+[ 02/08/2025 21:13:36.150 win_release_pixmap DEBUG ] Releasing pixmap of window 0x05c00000 ((null))
+[ 02/08/2025 21:13:36.151 win_process_image_flags DEBUG ] New named pixmap for 0x04800000 ((null)) : 0x03000240
+[ 02/08/2025 21:13:36.151 win_release_pixmap DEBUG ] Releasing pixmap of window 0x04800000 ((null))
+[ 02/08/2025 21:13:36.151 win_process_image_flags DEBUG ] New named pixmap for 0x03200000 ((null)) : 0x03000242
+[ 02/08/2025 21:13:36.151 win_release_pixmap DEBUG ] Releasing pixmap of window 0x03200000 ((null))
+[ 02/08/2025 21:13:36.151 win_process_image_flags DEBUG ] New named pixmap for 0x02a00000 ((null)) : 0x03000244
+[ 02/08/2025 21:13:36.151 win_release_pixmap DEBUG ] Releasing pixmap of window 0x02a00000 ((null))
+[ 02/08/2025 21:13:36.151 win_process_image_flags DEBUG ] New named pixmap for 0x02000000 ((null)) : 0x03000246
+[ 02/08/2025 21:13:36.151 win_release_pixmap DEBUG ] Releasing pixmap of window 0x02000000 ((null))
+[ 02/08/2025 21:13:36.151 win_process_image_flags DEBUG ] New named pixmap for 0x01200000 ((null)) : 0x03000248
+[ 02/08/2025 21:13:36.151 win_release_pixmap DEBUG ] Releasing pixmap of window 0x01200000 ((null))
+[ 02/08/2025 21:13:36.151 win_process_image_flags DEBUG ] New named pixmap for 0x00a00003 (picom --log-level=debug --log-file=picom.log) : 0x0300024a
+[ 02/08/2025 21:13:36.151 win_release_pixmap DEBUG ] Releasing pixmap of window 0x00a00003 (picom --log-level=debug --log-file=picom.log)
+[ 02/08/2025 21:13:36.151 win_process_image_flags DEBUG ] New named pixmap for 0x01200002 (polybar-example_eDP-1) : 0x0300024c
+[ 02/08/2025 21:13:36.151 win_release_pixmap DEBUG ] Releasing pixmap of window 0x01200002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.151 win_process_image_flags DEBUG ] New named pixmap for 0x02000002 (polybar-example_eDP-1) : 0x0300024e
+[ 02/08/2025 21:13:36.151 win_release_pixmap DEBUG ] Releasing pixmap of window 0x02000002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.151 win_process_image_flags DEBUG ] New named pixmap for 0x02a00002 (polybar-example_eDP-1) : 0x03000250
+[ 02/08/2025 21:13:36.151 win_release_pixmap DEBUG ] Releasing pixmap of window 0x02a00002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.151 win_process_image_flags DEBUG ] New named pixmap for 0x03200002 (polybar-example_eDP-1) : 0x03000252
+[ 02/08/2025 21:13:36.151 win_release_pixmap DEBUG ] Releasing pixmap of window 0x03200002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.151 win_process_image_flags DEBUG ] New named pixmap for 0x04800002 (polybar-example_eDP-1) : 0x03000254
+[ 02/08/2025 21:13:36.151 win_release_pixmap DEBUG ] Releasing pixmap of window 0x04800002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.152 win_process_image_flags DEBUG ] New named pixmap for 0x05c00002 (polybar-example_eDP-1) : 0x03000256
+[ 02/08/2025 21:13:36.152 win_release_pixmap DEBUG ] Releasing pixmap of window 0x05c00002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.152 win_process_image_flags DEBUG ] New named pixmap for 0x06000002 (polybar-example_eDP-1) : 0x03000258
+[ 02/08/2025 21:13:36.152 win_release_pixmap DEBUG ] Releasing pixmap of window 0x06000002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.152 win_process_image_flags DEBUG ] New named pixmap for 0x06400002 (polybar-example_eDP-1) : 0x0300025a
+[ 02/08/2025 21:13:36.152 win_release_pixmap DEBUG ] Releasing pixmap of window 0x06400002 (polybar-example_eDP-1)
+[ 02/08/2025 21:13:36.166 wm_handle_set_event_mask_reply DEBUG ] Event mask set for window 0x00c001b3, sending query tree.
+[ 02/08/2025 21:13:36.166 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c0002d
+[ 02/08/2025 21:13:36.166 wm_handle_query_tree_reply DEBUG ] Window 0x00c0002d has 0 children
+[ 02/08/2025 21:13:36.166 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c0002d, WM_STATE 0).
+[ 02/08/2025 21:13:36.166 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c00048
+[ 02/08/2025 21:13:36.166 wm_handle_query_tree_reply DEBUG ] Window 0x00c00048 has 0 children
+[ 02/08/2025 21:13:36.166 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c00048, WM_STATE 0).
+[ 02/08/2025 21:13:36.166 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c0018b
+[ 02/08/2025 21:13:36.166 wm_handle_query_tree_reply DEBUG ] Window 0x00c0018b has 0 children
+[ 02/08/2025 21:13:36.167 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c0018b, WM_STATE 0).
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c001a1
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Window 0x00c001a1 has 0 children
+[ 02/08/2025 21:13:36.167 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c001a1, WM_STATE 0).
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c0003a
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Window 0x00c0003a has 0 children
+[ 02/08/2025 21:13:36.167 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c0003a, WM_STATE 0).
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c0003e
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Window 0x00c0003e has 0 children
+[ 02/08/2025 21:13:36.167 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c0003e, WM_STATE 0).
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c00042
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Window 0x00c00042 has 0 children
+[ 02/08/2025 21:13:36.167 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c00042, WM_STATE 0).
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c000fc
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Window 0x00c000fc has 0 children
+[ 02/08/2025 21:13:36.167 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c000fc, WM_STATE 0).
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c00065
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Window 0x00c00065 has 0 children
+[ 02/08/2025 21:13:36.167 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c00065, WM_STATE 0).
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c00140
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Window 0x00c00140 has 0 children
+[ 02/08/2025 21:13:36.167 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c00140, WM_STATE 0).
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c00196
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Window 0x00c00196 has 0 children
+[ 02/08/2025 21:13:36.167 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c00196, WM_STATE 0).
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c0019a
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Window 0x00c0019a has 0 children
+[ 02/08/2025 21:13:36.167 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c0019a, WM_STATE 0).
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c0019e
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Window 0x00c0019e has 0 children
+[ 02/08/2025 21:13:36.167 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c0019e, WM_STATE 0).
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c001ac
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Window 0x00c001ac has 0 children
+[ 02/08/2025 21:13:36.167 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c001ac, WM_STATE 0).
+[ 02/08/2025 21:13:36.167 x_generic_async_callback DEBUG ] Expected X error for request in x_prepare_for_sleep at ../src/x.c:1111: X error 4 PIXMAP request 54 minor 0 serial 2274
+[ 02/08/2025 21:13:36.167 recheck_focus DEBUG ] Current focused window is 0x00a00003
+[ 02/08/2025 21:13:36.167 wm_ref_set_focused DEBUG ] Focused window changed from 0000000000 to 0x00a00003
+[ 02/08/2025 21:13:36.167 recheck_focus DEBUG ] 0x00a00003 (picom --log-level=debug --log-file=picom.log) focused.
+[ 02/08/2025 21:13:36.167 win_maybe_allocate DEBUG ] Managing window 0x00c001b3
+[ 02/08/2025 21:13:36.167 x_generic_async_callback DEBUG ] Expected X error for request in x_prepare_for_sleep at ../src/x.c:1111: X error 4 PIXMAP request 54 minor 0 serial 2747
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Finished querying tree for window 0x00c001b3
+[ 02/08/2025 21:13:36.167 wm_handle_query_tree_reply DEBUG ] Window 0x00c001b3 has 1 children
+[ 02/08/2025 21:13:36.167 wm_import_start_inner DEBUG ] Starting import process for window 0x00c001b4
+[ 02/08/2025 21:13:36.167 wm_tree_set_wm_state DEBUG ] WM_STATE unchanged call (window 0x00c001b3, WM_STATE 0).
+[ 02/08/2025 21:13:36.167 x_generic_async_callback DEBUG ] Expected X error for request in x_prepare_for_sleep at ../src/x.c:1111: X error 4 PIXMAP request 54 minor 0 serial 2750
+[ 02/08/2025 21:13:36.167 handle_pending_updates DEBUG ] Delayed handling of events
+[ 02/08/2025 21:13:36.167 win_process_secondary_flags DEBUG ] Window 0x00a00003 (picom --log-level=debug --log-file=picom.log) focus state changed from 0 to 1
+[ 02/08/2025 21:13:36.167 win_process_secondary_flags DEBUG ] Window 0x00a00003 (picom --log-level=debug --log-file=picom.log) group focus state changed from 0 to 1
+[ 02/08/2025 21:13:36.167 win_on_factor_change DEBUG ] Window 0x00a00003, client 0x00a00003 (picom --log-level=debug --log-file=picom.log) factor change
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = window_type = "tooltip"
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = class_g = "Dunst"
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = class_g = "virtualbox"
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = class_g = "alacritty"
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): branch: result = 0, pattern = ((window_type = "dock" || window_type = "desktop") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = window_type != "dock"
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = window_type = "dock"
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = window_type = "desktop"
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): branch: result = 0, pattern = (window_type = "dock" || window_type = "desktop")
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = name = "Notification"
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = class_g = "Conky"
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): branch: result = 0, pattern = (name = "Notification" || class_g = "Conky")
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = class_g ?= "Notify-osd"
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): branch: result = 0, pattern = ((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd")
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = class_g = "Cairo-clock"
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): branch: result = 0, pattern = (((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock")
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): leaf: result = 0, client = 0x00a00003,  pattern = _GTK_FRAME_EXTENTS@[0]
+[ 02/08/2025 21:13:36.167 c2_match_once DEBUG ] (0x00a00003): branch: result = 0, pattern = ((((name = "Notification" || class_g = "Conky") || class_g ?= "Notify-osd") || class_g = "Cairo-clock") || _GTK_FRAME_EXTENTS@[0])
+[ 02/08/2025 21:13:36.167 win_on_factor_change DEBUG ] Window mode changed to 0
