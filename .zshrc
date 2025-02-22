@@ -4,10 +4,6 @@ export GTK_THEME=Adwaita:dark
 export GTK2_RC_FILES=/usr/share/themes/Adwaita-dark/gtk-2.0/gtkrc
 export QT_STYLE_OVERRIDE=Adwaita-Dark
 
-# android stuff
-export ANDROID_HOME=$HOME/.config/android-sdk
-export PATH=$PATH:$ANDROID_HOME/platform-tools
-export JAVA_HOME=/usr/lib/jvm/java-17-openjdk
 
 ZSH_THEME="eastwood"
 #ZSH_THEME="robbyrussell"
